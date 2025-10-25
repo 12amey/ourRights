@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/districts/route": "/api/districts",
+  "/api/mgnrega-data/history/route": "/api/mgnrega-data/history",
+  "/api/mgnrega-data/route": "/api/mgnrega-data",
+  "/api/mgnrega-data/sync/route": "/api/mgnrega-data/sync",
+  "/api/states/[stateCode]/districts/route": "/api/states/[stateCode]/districts",
+  "/api/states/route": "/api/states",
+  "/icon.svg/route": "/icon.svg",
+  "/api/mgnrega/route": "/api/mgnrega",
+  "/dashboard/[district]/page": "/dashboard/[district]",
+  "/page": "/"
+}

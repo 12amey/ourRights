@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/dashboard/[district]/page": [
+      "static/chunks/599a1_next_dist_4e86d0d8._.js",
+      "static/chunks/a6192_mgnrega-district-dashboard-main_src_app_icon_svg_mjs_f977787f._.js",
+      "static/chunks/cf6a7_district-dashboard-main_mgnrega-district-dashboard-main_src_app_globals_266d6a28.css",
+      "static/chunks/mgnrega-district-dashboard-main_mgnrega-district-dashboard-main_src_6f63a79c._.js",
+      "static/chunks/599a1_next_dist_16d2a17b._.js",
+      "static/chunks/352b7_trict-dashboard-main_mgnrega-district-dashboard-main_src_app_layout_tsx_8f490fa3._.js",
+      "static/chunks/a6192_mgnrega-district-dashboard-main_src_app_global-error_tsx_b22e8ee3._.js",
+      "static/chunks/a6192_mgnrega-district-dashboard-main_src_app_global-error_tsx_36c9c4cc._.js",
+      "static/chunks/599a1_cd5cd87f._.js",
+      "static/chunks/mgnrega-district-dashboard-main_mgnrega-district-dashboard-main_src_d5b6abdf._.js",
+      "static/chunks/599a1_tailwind-merge_dist_bundle-mjs_mjs_d01a9de2._.js",
+      "static/chunks/599a1_motion-dom_dist_es_f40c6d46._.js",
+      "static/chunks/599a1_framer-motion_dist_es_97f3f7af._.js",
+      "static/chunks/599a1_pako_dist_pako_esm_mjs_c0226459._.js",
+      "static/chunks/599a1_jspdf_dist_jspdf_es_min_b9a47568.js",
+      "static/chunks/599a1_recharts_es6_util_2897c578._.js",
+      "static/chunks/599a1_recharts_es6_state_7c9e0185._.js",
+      "static/chunks/599a1_recharts_es6_component_55452beb._.js",
+      "static/chunks/599a1_recharts_es6_cartesian_309f5fdd._.js",
+      "static/chunks/599a1_recharts_es6_19be22e7._.js",
+      "static/chunks/599a1_d3-scale_src_10dd8ed5._.js",
+      "static/chunks/599a1_@radix-ui_74f93535._.js",
+      "static/chunks/599a1_@floating-ui_2833333a._.js",
+      "static/chunks/599a1_87f548e5._.js",
+      "static/chunks/a6192_mgnrega-district-dashboard-main_src_app_dashboard_[district]_page_tsx_36c9c4cc._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_858e0e09._.js",
+      "static/chunks/599a1_next_dist_compiled_25dc8c6c._.js",
+      "static/chunks/599a1_next_dist_client_c96c6dc5._.js",
+      "static/chunks/599a1_next_dist_deb33067._.js",
+      "static/chunks/599a1_@swc_helpers_cjs_80ab360a._.js",
+      "static/chunks/mgnrega-district-dashboard-main_mgnrega-district-dashboard-main_e69f0d32._.js",
+      "static/chunks/mgnrega-district-dashboard-main_mgnrega-district-dashboard-main_9ebc73fa._.js"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "/api/mgnrega-data/route": "app/api/mgnrega-data/route.js",
+  "/api/mgnrega/route": "app/api/mgnrega/route.js",
+  "/api/states/[stateCode]/districts/route": "app/api/states/[stateCode]/districts/route.js",
+  "/api/states/route": "app/api/states/route.js",
+  "/dashboard/[district]/page": "app/dashboard/[district]/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/page": "app/page.js"
+}

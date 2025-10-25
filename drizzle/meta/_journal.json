@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761116791338,
+      "tag": "0000_giant_firelord",
+      "breakpoints": true
+    }
+  ]
+}
